@@ -1,6 +1,6 @@
 # .charpierrc.json
 
-... csharp
+```csharp
 {
   "printWidth": 100,
   "useTabs": true,
@@ -8,4 +8,4 @@
   "preprocessorSymbolSets": ["", "DEBUG", "DEBUG,CODE_STYLE"]
 }
 
-...
+```
